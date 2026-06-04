@@ -1,6 +1,4 @@
-# 3D Robot Arm Simulator
-
-A simple robot arm simulator built with Python.
+# Robot Arm Simulator
 
 ## Features
 
@@ -10,9 +8,18 @@ A simple robot arm simulator built with Python.
 - Interactive joint sliders
 - 3D visualization
 
-## Run
+## How to Run
 
+Load the repository onto your computer, then run the following commands: 
+
+#### For Windows:
 ```bash
 pip install -r requirements.txt
 python main.py
+```
+
+#### For Mac:
+```bash
+pip install -r requirements.txt
+python3 main.py
 ```
